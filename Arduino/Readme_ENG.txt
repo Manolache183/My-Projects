@@ -1,0 +1,1 @@
+With this code I built a robot which can solve a line-maze.
